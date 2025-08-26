@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on github, insta and other platforms as well
 - 📫 How to reach me email: haru64646@gmail.com  , insta id: @haru_ssi
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I sometimes make stupid remarks but laugh along while learning.
 
 <!---
 Haru-1-tech/Haru-1-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
