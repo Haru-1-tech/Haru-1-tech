@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Haru.
+- 👋 Hi, I’m Dhrubajoti Kar.
 - 👀 I’m interested in coding, AI, development
 - 🌱 I’m currently learning python, AI and related aspects and interested in diving into more different types of tech
 -    I’m looking to collaborate on github, insta and other platforms as well
-- 📫 How to reach me email: haru64646@gmail.com 
+- 📫 How to reach me email: kardhrubajoti@gmail.com 
 - 😄 Pronouns: He/Him
 
 <!---
